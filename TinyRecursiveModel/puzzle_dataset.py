@@ -59,7 +59,7 @@ class PuzzleDataset(IterableDataset):
         prev_seq_len = None
         prev_vocab_size = None
         prev_pad_id = None
-        prev_ignore_label_id = None
+        prev_ignore_label_id = None 
         prev_blank_identifier_id = None
         prev_sets = None
         prev_num_identifiers = None
